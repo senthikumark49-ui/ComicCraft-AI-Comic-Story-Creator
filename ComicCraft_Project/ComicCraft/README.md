@@ -115,3 +115,4 @@ The API returns the generated panel layout and PDF path.
 - The supplied documentation describes local Hugging Face Diffusers. This implementation uses Hugging Face hosted inference so a student laptop does not need to download a large Stable Diffusion model. The image model remains configurable through `HF_IMAGE_MODEL`.
 - If a selected Hugging Face model/provider is unavailable to your account, change `HF_IMAGE_MODEL` in `.env` to a model supported by your account.
 - The Gemini and Hugging Face model names are configurable rather than hard-coded into the application logic.
+https://drive.google.com/file/d/1nN2OiubULdTe49rtHXf-8MsVMM6uQP1c/view?usp=drive_link
